@@ -9,3 +9,5 @@
 `README.md` documentation of the project
 
 `main.py` entry to the program
+
+`requirements.txt` used to track all external packages
